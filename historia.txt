@@ -1,5 +1,1 @@
-Hola, soy Mauricio, y esta es mi historia como programador
-
-soy de colombia y tengo 31 años
-
-let's go to talk about my life and my oeuvre.
+Hola, soy mauricio, y esta es mi historia como programador
