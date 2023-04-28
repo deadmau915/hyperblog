@@ -1,7 +1,8 @@
 body
 {
+    background: #1e1f24;
     color: #333;
-    text-align: left;
+    text-align: center;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -10,18 +11,24 @@ body
 
 #header
 {
-    background: #33a;
+    background: #37488b;
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
-    color: #fff;
-    font-weight: 700;
+    color: white;
+    font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#header #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #header #tagline
 {
     padding:0 0 0 1em;
-    font-weight:400;
+    font-weight:normal;
     font-size:.8em
 }
 
@@ -41,5 +48,6 @@ body
 
 #post
 {
+    background: white;
     padding: 1em;
 }
