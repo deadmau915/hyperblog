@@ -4,14 +4,10 @@ Tomorrow we are gonna talk about his laboral life
 
 this line is an experiment to try the command git rebases
 
-<<<<<<< HEAD
 line to experiment on command git rebase
-=======
+
 third line on experimental git rebase
 
 fourth line on experimental rebase
->>>>>>> f0e0cf3 (first commit on experimental branch)
-
-the last chonge on experimental git rebase
 
 second line to test git rebase
