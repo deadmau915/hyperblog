@@ -11,5 +11,6 @@ In this course I learned about:
 * how to fork a repo and how to make push request to those repos
 * just a new item to try cherry pick in git
 * second change in order to try the git command "cherry pick"
+* third change in order to try cherry pick command
 
 This **readme.md** was designed while I was taking the course in platzi, It's just to see how the readme file will look in github, **not a real exercise of one**
