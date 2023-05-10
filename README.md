@@ -9,5 +9,6 @@ In this course I learned about:
 * move back and forward in the commits
 * how git is used in the profesional software development
 * how to fork a repo and how to make push request to those repos
+* just a new item to try cherry pick in git
 
 This **readme.md** was designed while I was taking the course in platzi, It's just to see how the readme file will look in github, **not a real exercise of one**
